@@ -160,13 +160,13 @@
 	        density: 10,
 	        growSpeed: 1000 / 60,
 	        color: {
-				rmin: 128,
-				rmax: 255,
-				gmin: 0,
-				gmax: 128,
-				bmin: 0,
-				bmax: 128,
-	            opacity: 0.1
+              rmin: 128,
+              rmax: 220,
+              gmin: 0,
+              gmax: 128,
+              bmin: 220,
+              bmax: 255,
+              opacity: 0.1
 	        },
 	        tanAngle: 60
 	    };
